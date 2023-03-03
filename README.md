@@ -1,4 +1,7 @@
 # JAVA-PRACTICE-CODES
+![Java-Logo](https://user-images.githubusercontent.com/122448640/222693660-b84de74e-a6aa-4f02-9698-911a8e3eccb1.png)
+
+
 This file contains code for daily java practice which you can practice to improve your java programming.
 
 Advantages of Java
